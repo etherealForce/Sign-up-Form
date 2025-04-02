@@ -17,9 +17,15 @@
 
 body {
     display: flex;
+    height: 100vh;
 }
 
 .left {
     background: no-repeat url(../images/adele-payman-2oYMwuFgnTg-unsplash.jpg);
-    background-size: 300px auto;
+    background-size: 100vh auto;
+    flex: 1 0 auto;
+}
+
+.left, .right {
+    height: 100vh;
 }
