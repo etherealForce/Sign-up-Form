@@ -4,4 +4,10 @@ Hello, and welcome to my new project. For the past few weeks, I have been studyi
 
 I play to create a simple sign up form page with some custom fonts, images and will try my best to create a nice looking color scheme to match with the content and aesthetics of the site and everything.
 
-Below are authors and creators/credits for the images used here.
+Credits:
+
+Photo by <a href="https://unsplash.com/@adele_payman?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adele Payman</a> on <a href="https://unsplash.com/photos/green-leafed-plants-during-daytime-2oYMwuFgnTg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Pangolin Font via google fonts, Designed by Kevin Burke; <a href="https://fonts.google.com/specimen/Pangolin">Google fonts </a>
+
+Photo by <a href="https://unsplash.com/@scheichmeshaelzahedd?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Scheich Méshaël Zāhedd</a> on <a href="https://unsplash.com/photos/an-apple-sitting-on-top-of-a-white-table-uP8GKvZyHe8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
