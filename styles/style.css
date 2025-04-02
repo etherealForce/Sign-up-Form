@@ -6,9 +6,18 @@
 
 @font-face {
     font-family: 'pangolinregular';
-    src: url('pangolin-regular-webfont.woff2') format('woff2'),
-         url('pangolin-regular-webfont.woff') format('woff');
+    src: url('../fonts/pangolin-regular-webfont.woff2') format('woff2'),
+         url('../fonts/pangolin-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
+}
+
+body {
+    display: flex;
+}
+
+.left {
+    background: no-repeat url(../images/adele-payman-2oYMwuFgnTg-unsplash.jpg);
+    background-size: 300px auto;
 }
