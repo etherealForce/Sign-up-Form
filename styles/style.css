@@ -22,10 +22,26 @@ body {
 
 .left {
     background: no-repeat url(../images/adele-payman-2oYMwuFgnTg-unsplash.jpg);
-    background-size: 100vh auto;
+    background-size: contain;
     flex: 1 0 auto;
+
 }
 
 .left, .right {
     height: 100vh;
+
+}
+
+.title {
+    font-weight: 900;
+    font-size: 25px;
+   
+}
+
+.title-container {
+    background-color: rgba(62, 58, 58, 0.636);
+}
+
+.title img {
+    height: 3em;
 }
