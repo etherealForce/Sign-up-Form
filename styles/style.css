@@ -57,7 +57,11 @@ img {
     height: 100px;
 }
 
-
+.right {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(#BDDDE4, #DDEB9D);
+}
 
 .source-container {
     display: flex;
