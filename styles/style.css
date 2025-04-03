@@ -34,14 +34,17 @@ body {
 
 .title {
     font-weight: 900;
-    font-size: 25px;
-   
+    font-size: 50px;
 }
 
 .title-container {
     background-color: rgba(62, 58, 58, 0.636);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
 }
 
-.title img {
-    height: 3em;
+img {
+    height: 100px;
 }
