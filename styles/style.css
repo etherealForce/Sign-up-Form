@@ -22,8 +22,19 @@ label {
 }
 
 input {
-    width: 200px;
+    width: 210px;
     border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid #d8d0d0;;
+    height: 25px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.controls div {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
 
 
