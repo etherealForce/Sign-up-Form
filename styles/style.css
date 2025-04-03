@@ -27,6 +27,9 @@ body {
     background: no-repeat url(../images/adele-payman-2oYMwuFgnTg-unsplash.jpg);
     background-size: 100%;
     flex: 1 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
 
 }
 
@@ -52,4 +55,18 @@ body {
 
 img {
     height: 100px;
+}
+
+
+
+.source-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color:#f1ebeb;
+    font-size: 10px;
+}
+
+.source-container a {
+    color:#f1ebeb
 }
