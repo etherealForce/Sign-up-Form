@@ -25,10 +25,11 @@ input {
     width: 210px;
     border-radius: 5px;
     box-sizing: border-box;
-    border: 1px solid #d8d0d0;;
+    border: 1px solid #7fb572;
     height: 25px;
     font-size: 15px;
     font-weight: 600;
+    background-color: #BDDDE4;
 }
 
 .controls div {
@@ -104,7 +105,7 @@ img {
 }
 
 #daform {
-    background-color: #ACD3A8;
+    background: linear-gradient(#ACD3A8,#DDEB9D);
     display: flex;
     flex-direction: column;
     padding : 10px 50px 30px 50px;
@@ -125,7 +126,7 @@ img {
 
 
 .info {
-    /* margin-bottom: 20px; */
+    margin-bottom: 20px;
     width: 600px;
     height: auto;
     font-weight:700;
@@ -150,5 +151,15 @@ img {
     display: flex;
     width: 500px;
     flex-flow: row wrap;
-    gap: 50px;
+    justify-content: space-between;
+    gap:20px;
+}
+
+input:focus, input:invalid:focus {
+    box-shadow: 1px 3px 5px #292a2b;
+    outline: 2px solid #0538e0;
+}
+
+input:invalid {
+    outline: 2px solid #c33a3a;
 }
