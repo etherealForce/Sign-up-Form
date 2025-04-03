@@ -8,6 +8,6 @@ Credits:
 
 Photo by <a href="https://unsplash.com/@adele_payman?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adele Payman</a> on <a href="https://unsplash.com/photos/green-leafed-plants-during-daytime-2oYMwuFgnTg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-Pangolin Font via google fonts, Designed by Kevin Burke; <a href="https://fonts.google.com/specimen/Pangolin">Google fonts </a>
+Knewave Font via google fonts, Designed by Tyler Finck; <a href="https://fonts.google.com/specimen/Knewave">Google fonts </a>
 
 Photo by <a href="https://unsplash.com/@scheichmeshaelzahedd?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Scheich Méshaël Zāhedd</a> on <a href="https://unsplash.com/photos/an-apple-sitting-on-top-of-a-white-table-uP8GKvZyHe8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
