@@ -20,13 +20,15 @@
 
 body {
     display: flex;
-    height: 100vh;
+    height: 100%;
+    background: linear-gradient(#BDDDE4, #DDEB9D);
 }
 
 .left {
-    background: no-repeat url(../images/adele-payman-2oYMwuFgnTg-unsplash.jpg);
-    background-size: 100%;
-    flex: 1 0 auto;
+    background: no-repeat url(../images/adele-payman-2oYMwuFgnTg-unsplash.jpg   );
+    background-size: cover;
+    flex: 0 0 auto;
+    width: 500px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -60,7 +62,8 @@ img {
 .right {
     display: flex;
     flex-direction: column;
-    background: linear-gradient(#BDDDE4, #DDEB9D);
+    justify-content: center;
+    flex: 1 0 auto;
 }
 
 .source-container {
@@ -73,4 +76,21 @@ img {
 
 .source-container a {
     color:#f1ebeb
+}
+
+#daform {
+    background-color: #ACD3A8;
+} 
+
+#dabutton {
+    width: 300px;
+    height: auto;
+}
+
+
+.info {
+    padding: 30px;
+    margin-bottom: 50px;
+    width: 500px;
+    height: auto;
 }
