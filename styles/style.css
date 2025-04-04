@@ -122,6 +122,13 @@ img {
     border-radius: 10px;
     font-size: 15px;
     font-weight: 700;
+    border: 3px solid #C1CFA1;
+    background-color:#577342;
+    color:#ffffff;
+}
+
+#dabutton:active {
+    background-color: #3b483a;
 }
 
 
